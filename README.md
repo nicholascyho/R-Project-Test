@@ -1,2 +1,3 @@
-# R-Project-Test
-# This is the project for my R Test Script
+# This is my notes on Data Analytics
+# It will cover the followings:
+#
