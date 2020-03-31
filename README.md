@@ -1,6 +1,20 @@
 # Data Analytics Notebook #
 
+### Mathematics ###
 
+### Statistics ###
+
+### Learning From Data ###
+
+### Python ###
+
+### R ###
+
+### SAS ###
+
+### SQL ###
+
+### Machine Learning ###
 
 ### Algorithmic Trading ###
 
