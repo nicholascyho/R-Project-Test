@@ -15,6 +15,7 @@
 ### SQL ###
 
 ### Machine Learning ###
+* [Machine Learning in Python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 
 ### Algorithmic Trading ###
 
