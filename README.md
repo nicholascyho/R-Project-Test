@@ -9,6 +9,8 @@
 ### Python ###
 
 ### R ###
+* [Using R for Time Series Analysis](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
+
 
 ### SAS ###
 
