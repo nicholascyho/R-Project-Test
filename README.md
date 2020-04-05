@@ -16,6 +16,7 @@
 
 ### Machine Learning ###
 * [Machine Learning in Python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
+* [Roadmap to Computer Vision](https://towardsdatascience.com/roadmap-to-computer-vision-79106beb8be4)
 
 ### Algorithmic Trading ###
 
