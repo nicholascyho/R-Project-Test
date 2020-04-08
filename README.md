@@ -10,6 +10,7 @@
 
 ### R ###
 * [Using R for Time Series Analysis](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
+* [A first look at federated learning with TensorFlow](https://blogs.rstudio.com/tensorflow/posts/2020-04-08-tf-federated-intro)
 
 
 ### SAS ###
