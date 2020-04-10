@@ -18,6 +18,7 @@
 
 
 ### SAS ###
+* [SAS Tutorials by Data Flair](https://data-flair.training/blogs/sas-tutorial/)
 * [How to replace the missing values with the mean of the variable](https://communities.sas.com/t5/SAS-Studio/How-to-replace-the-missing-values-with-the-mean-of-the-variable/td-p/400149)
 
 
