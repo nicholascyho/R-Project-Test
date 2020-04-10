@@ -29,6 +29,10 @@
 * [Roadmap to Computer Vision](https://towardsdatascience.com/roadmap-to-computer-vision-79106beb8be4)
 
 
+### Deep Learning ###
+* [Deep Learning using Keras and Tensorflow](https://wizardforcel.gitbooks.io/deep-learning-keras-tensorflow/)
+
+
 ### Algorithmic Trading ###
 * [Free Resource on Algorithmc Trading By QuantInsti](https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/?EmailAddress=nicholascyho%40gmail.com&FirstName=Nick&LastName=Hoo&landingForm=thank-you-form)
 
