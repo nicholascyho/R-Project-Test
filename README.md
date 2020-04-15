@@ -8,7 +8,8 @@
 
 
 ### Statistics ###
-
+* [Let us understand the correlation matrix and covariance matrix](https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22)
+* [Introduction to Correlation and Regression Analysis](https://support.sas.com/resources/papers/proceedings/pdfs/sgf2008/364-2008.pdf)
 
 ### Learning From Data ###
 
@@ -24,6 +25,7 @@
 ### SAS ###
 * [SAS Tutorials by Data Flair](https://data-flair.training/blogs/sas-tutorial/)
 * [How to replace the missing values with the mean of the variable](https://communities.sas.com/t5/SAS-Studio/How-to-replace-the-missing-values-with-the-mean-of-the-variable/td-p/400149)
+* [SAS Pearson Correlation with PROC CORR](https://libguides.library.kent.edu/SAS/PearsonCorr)
 
 
 ### SQL ###
@@ -50,3 +52,5 @@
 * [Data Science Concepts explained to a 5-years old](https://towardsdatascience.com/data-science-concepts-explained-to-a-five-year-old-ad440c7b3cbd)
 
 
+### Research ###
+* [How to read scientific papers - Increase your efficiency with the three-pass approach](https://towardsdatascience.com/how-to-read-scientific-papers-df3afd454179)
