@@ -46,3 +46,5 @@
 * [Data Science Concepts explained to a 5-years old](https://towardsdatascience.com/data-science-concepts-explained-to-a-five-year-old-ad440c7b3cbd)
 
 
+### Research ###
+* [How to read scientific papers](https://towardsdatascience.com/how-to-read-scientific-papers-df3afd454179)
