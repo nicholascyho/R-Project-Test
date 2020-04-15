@@ -1,7 +1,7 @@
 # Data Analytics Notebook #
 
 ### Exploratory Data Analysis ###
-* [All About Missing Data Handling] (https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184)
+* [All About Missing Data Handling](https://towardsdatascience.com/all-about-missing-data-handling-b94b8b5d2184)
 
 
 ### Mathematics ###
