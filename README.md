@@ -47,4 +47,4 @@
 
 
 ### Research ###
-* [How to read scientific papers](https://towardsdatascience.com/how-to-read-scientific-papers-df3afd454179)
+* [How to read scientific papers - Increase your efficiency with the three-pass approach](https://towardsdatascience.com/how-to-read-scientific-papers-df3afd454179)
