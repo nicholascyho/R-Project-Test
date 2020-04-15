@@ -4,7 +4,7 @@
 
 
 ### Statistics ###
-
+* [Let us understand the correlation matrix and covariance matrix](https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22)
 
 ### Learning From Data ###
 
