@@ -39,6 +39,7 @@
 ### Deep Learning ###
 * [Deep Learning using Keras and Tensorflow](https://wizardforcel.gitbooks.io/deep-learning-keras-tensorflow/)
 * [How to Crack Google TensorFlow Certification](https://analyticsindiamag.com/how-to-crack-google-tensorflow-certification/)
+* [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
 
 ### Algorithmic Trading ###
