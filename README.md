@@ -58,6 +58,7 @@
 
 ### For Technical Interview ###
 * [Data Science Concepts explained to a 5-years old](https://towardsdatascience.com/data-science-concepts-explained-to-a-five-year-old-ad440c7b3cbd)
+* [How to Become a Freelance Data Analyst](https://www.springboard.com/blog/freelance-data-analysis/)
 
 
 ### Research ###
