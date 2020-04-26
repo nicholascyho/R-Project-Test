@@ -15,6 +15,7 @@
 
 
 ### Python ###
+* [Implementing Web Scraping in Python with BeautifulSoup](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
 
 
 ### R ###
