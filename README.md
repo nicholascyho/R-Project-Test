@@ -15,8 +15,12 @@
 
 
 ### Python ###
+
+
+### Web Scraping ###
 * [Implementing Web Scraping in Python with BeautifulSoup](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
 * [Step by Step Guide on Scraping Data from a Website and Saving it to a Database](https://howpcrules.com/step-by-step-guide-on-scraping-data-from-a-website-and-saving-it-to-a-database/)
+* [Facebook for developers - Graph API](https://developers.facebook.com/docs/graph-api)
 
 
 ### R ###
