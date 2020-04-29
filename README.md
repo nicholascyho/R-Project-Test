@@ -42,6 +42,10 @@
 * [Roadmap to Computer Vision](https://towardsdatascience.com/roadmap-to-computer-vision-79106beb8be4)
 
 
+### Time Series Analysis and Forecasting ###
+* [Time Series Forecast: A Basic Introduction Using Python](https://medium.com/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000)
+* [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
+
 ### Deep Learning ###
 * [Deep Learning using Keras and Tensorflow](https://wizardforcel.gitbooks.io/deep-learning-keras-tensorflow/)
 * [How to Crack Google TensorFlow Certification](https://analyticsindiamag.com/how-to-crack-google-tensorflow-certification/)
