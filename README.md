@@ -61,6 +61,7 @@
 ### Data Analytics Example ###
 * [Data Modelling & Analysing Coronavirus (COVID19) Spread using Data Science & Data Analytics in Python Code](https://in.springboard.com/blog/data-modelling-covid/?fbclid=IwAR2Kmq0xIZ9BqD7CLCOJ5yu568TTTWnsEEV2jfd1D4O1Rgf3qxbFktNP11Q)
 * [How we launched a data product in 60 days with AWS](https://towardsdatascience.com/launching-beta-data-product-within-two-month-with-aws-6ac6b55a9b5d)
+* [How to Produce a DeepFake Video in 5 minutes](https://towardsdatascience.com/how-to-produce-a-deepfake-video-in-5-minutes-513984fd24b6)
 
 ### For Technical Interview ###
 * [Data Science Concepts explained to a 5-years old](https://towardsdatascience.com/data-science-concepts-explained-to-a-five-year-old-ad440c7b3cbd)
