@@ -50,7 +50,6 @@
 * [Deep Learning using Keras and Tensorflow](https://wizardforcel.gitbooks.io/deep-learning-keras-tensorflow/)
 * [How to Crack Google TensorFlow Certification](https://analyticsindiamag.com/how-to-crack-google-tensorflow-certification/)
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
-* [Using Deep Learning AI to Predict the Stock Market](https://towardsdatascience.com/using-deep-learning-ai-to-predict-the-stock-market-9399cf15a312)
 
 ### Algorithmic Trading ###
 * [Free Resource on Algorithmc Trading By QuantInsti](https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/?EmailAddress=nicholascyho%40gmail.com&FirstName=Nick&LastName=Hoo&landingForm=thank-you-form)
@@ -67,6 +66,8 @@
 * [How we launched a data product in 60 days with AWS](https://towardsdatascience.com/launching-beta-data-product-within-two-month-with-aws-6ac6b55a9b5d)
 * [An Introduction to DeepFakes](https://www.alanzucconi.com/2018/03/14/introduction-to-deepfakes/)
 * [Finding a grocery delivery slot, the smart way](https://towardsdatascience.com/finding-a-grocery-delivery-slot-the-smart-way-f4f0800c4afe)
+* [Using Deep Learning AI to Predict the Stock Market](https://towardsdatascience.com/using-deep-learning-ai-to-predict-the-stock-market-9399cf15a312)
+
 
 ### For Technical Interview ###
 * [Data Science Concepts explained to a 5-years old](https://towardsdatascience.com/data-science-concepts-explained-to-a-five-year-old-ad440c7b3cbd)
