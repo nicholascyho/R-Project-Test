@@ -76,3 +76,9 @@
 
 ### Research ###
 * [How to read scientific papers - Increase your efficiency with the three-pass approach](https://towardsdatascience.com/how-to-read-scientific-papers-df3afd454179)
+
+
+### Communities ###
+* [Kaggle](https://www.kaggle.com/)
+* [Analytics Vidhya - Learn everything about analytics](https://www.analyticsvidhya.com/blog/)
+* [10 Data Science Competitions for you to hone your skills for 2020](https://towardsdatascience.com/10-data-science-competitions-for-you-to-hone-your-skills-for-2020-32d87ee19cc9)
