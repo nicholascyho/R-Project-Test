@@ -51,6 +51,11 @@
 * [How to Crack Google TensorFlow Certification](https://analyticsindiamag.com/how-to-crack-google-tensorflow-certification/)
 * [MIT Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
 
+### Network Analysis ###
+* [Graph Theory Overview](https://www.youtube.com/watch?v=82zlRaRUsaY)
+* [Graph Theory - An Introduction!](https://www.youtube.com/watch?v=HmQR8Xy9DeM&t=16s)
+
+
 ### Algorithmic Trading ###
 * [Free Resource on Algorithmc Trading By QuantInsti](https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/?EmailAddress=nicholascyho%40gmail.com&FirstName=Nick&LastName=Hoo&landingForm=thank-you-form)
 
