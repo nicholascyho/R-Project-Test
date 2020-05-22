@@ -92,3 +92,4 @@
 * [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/)
 * [University of Pennsylvania - Jesús Fernández-Villaverde's Teaching](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 * [Unit Testing for Data Scientist](https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb)
+* [GeoSpark stands out for processing geospatial data at Scale](https://towardsdatascience.com/geospark-stands-out-for-processing-geospatial-data-at-scale-548077270ec0)
