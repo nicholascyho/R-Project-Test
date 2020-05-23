@@ -54,7 +54,7 @@
 ### Network Analysis ###
 * [Graph Theory Overview](https://www.youtube.com/watch?v=82zlRaRUsaY)
 * [Graph Theory - An Introduction!](https://www.youtube.com/watch?v=HmQR8Xy9DeM&t=16s)
-
+* [Graph Theory](https://www.youtube.com/watch?v=C5Xjts910IA)
 
 ### Algorithmic Trading ###
 * [Free Resource on Algorithmc Trading By QuantInsti](https://blog.quantinsti.com/free-resources-list-compilation-learn-algorithmic-trading/?EmailAddress=nicholascyho%40gmail.com&FirstName=Nick&LastName=Hoo&landingForm=thank-you-form)
