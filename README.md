@@ -66,6 +66,9 @@
 ### Data Visualization ###
 * [Tableau eLearning - Analyst Learning Path](https://elearning.tableau.com/series/analyst)
 
+### Machine Learning For Cybersecurity ###
+* [Machine Learning For Cybersecurity By Ricardo A. Calix, Ph.D.](http://www.ricardocalix.com/MLCyber/course1.htm)
+
 
 ### Data Analytics Example ###
 * [Data Modelling & Analysing Coronavirus (COVID19) Spread using Data Science & Data Analytics in Python Code](https://in.springboard.com/blog/data-modelling-covid/?fbclid=IwAR2Kmq0xIZ9BqD7CLCOJ5yu568TTTWnsEEV2jfd1D4O1Rgf3qxbFktNP11Q)
