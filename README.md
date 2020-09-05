@@ -100,6 +100,7 @@
 * [Why are data scientists doing DevOps?](https://towardsdatascience.com/why-are-data-scientists-doing-devops-bc36d00584c3)
 * [Building a Book Recommender Engine From Scratch and Deploying it to a Web Application](https://towardsdatascience.com/building-a-book-recommender-engine-from-scratch-and-deploying-it-to-a-web-application-eea029c4c1fb)
 * [Building your own deep learning computer and saving money on cloud services](https://towardsdatascience.com/building-your-own-deep-learning-computer-and-saving-money-on-cloud-services-c9797261077d)
+* [Install TensorFlow on PC using Legacy CPU](https://github.com/fo40225/tensorflow-windows-wheel)
 
 
 ### Data Source ###
